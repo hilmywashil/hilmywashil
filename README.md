@@ -1,19 +1,15 @@
-# Hi, I'm Hilmy 👋
+## `< whoami />`
 
-Frontend & WordPress Developer passionate about building modern, interactive, and user-friendly web experiences.
+```js
+const developer = {
+  name: "Nama Kamu",
+  role: ["Frontend Developer", "WordPress Developer"],
+  location: "Indonesia 🇮🇩",
 
-## 🧑‍💻 About Me
-
-- 💻 Frontend & WordPress Developer
-- 🌐 Building modern and interactive websites
-- ⚙️ Working with web hosting, domains, and servers
-- 🚀 Currently exploring React & modern web technologies
-
-## 🛠️ Tech Stack
-
-HTML • CSS • JavaScript • PHP • WordPress • Laravel • React
-
-## 📫 Connect With Me
-
-- Portfolio: hilmywashil.my.id
-- Instagram: @hilmywashil
+  stack: {
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["PHP", "Laravel"],
+    cms: ["WordPress"],
+    tools: ["Git", "GitHub", "VS Code"]
+  }
+};
