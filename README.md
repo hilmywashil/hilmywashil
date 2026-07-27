@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hilmy 👋
 
-<!--
-**hilmywashil/hilmywashil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & WordPress Developer passionate about building modern, interactive, and user-friendly web experiences.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Frontend & WordPress Developer
+- 🌐 Building modern and interactive websites
+- ⚙️ Working with web hosting, domains, and servers
+- 🚀 Currently exploring React & modern web technologies
+
+## 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • PHP • WordPress • Laravel • React
+
+## 📫 Connect With Me
+
+- Portfolio: hilmywashil.my.id
+- Instagram: @hilmywashil
