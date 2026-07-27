@@ -1,14 +1,14 @@
 
-## `{{ hi, i'am hilmy washil }}`
+## `< hi, i'am hilmy washil />`
 
 ```js
 const developer = {
-  name: "Nama Kamu",
+  name: "Hilmy Washil",
   role: ["Frontend Developer", "WordPress Developer"],
   location: "Indonesia 🇮🇩",
 
   stack: {
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Vue", "Tailwind"],
     backend: ["PHP", "Laravel"],
     cms: ["WordPress"],
     tools: ["Git", "GitHub", "VS Code"]
