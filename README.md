@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Hilmy Washil, a developer passionate about creating innovative digital solutions. With a strong foundation in web development, I love turning ideas into real products.<br>I believe that great code isn’t just code that works, it’s code that’s easy to understand, maintain, and delivers the best possible experience to its users.<br>Outside of coding, I’m continuously learning new technologies, contributing to the community, and exploring compelling interface design.
+Hi! I’m Hilmy Washil, a developer passionate about creating innovative digital solutions. With a strong foundation in web development, I love turning ideas into real products. I believe that great code isn’t just code that works, it’s code that’s easy to understand, maintain, and delivers the best possible experience to its users. Outside of coding, I’m continuously learning new technologies, contributing to the community, and exploring compelling interface design.
 
 
 ## 🌐 Socials:
